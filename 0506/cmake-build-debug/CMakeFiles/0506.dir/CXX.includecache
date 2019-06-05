@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/USUARIO/Desktop/poosdfbf/0506/FibonacciProg.h
+
+C:/Users/USUARIO/Desktop/poosdfbf/0506/GeometricProg.h
+
+C:/Users/USUARIO/Desktop/poosdfbf/0506/main.cpp
+iostream
+-
+range.h
+C:/Users/USUARIO/Desktop/poosdfbf/0506/range.h
+GeometricProg.h
+C:/Users/USUARIO/Desktop/poosdfbf/0506/GeometricProg.h
+FibonacciProg.h
+C:/Users/USUARIO/Desktop/poosdfbf/0506/FibonacciProg.h
+
+C:/Users/USUARIO/Desktop/poosdfbf/0506/range.h
+
